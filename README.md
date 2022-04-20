@@ -1,4 +1,4 @@
-# CatServer (1.12.2)
+# CatServer (1.12.2/1.16.5)
 
 [CatServer 项目](https://github.com/Luohuayu/CatServer)
 
